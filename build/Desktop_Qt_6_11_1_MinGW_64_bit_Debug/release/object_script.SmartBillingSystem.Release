@@ -1,0 +1,14 @@
+release/billing.o
+release/dashboard.o
+release/databasemanager.o
+release/dialog.o
+release/main.o
+release/mainwindow.o
+release/productmanagement.o
+release/salesreport.o
+release/moc_billing.o
+release/moc_dashboard.o
+release/moc_dialog.o
+release/moc_mainwindow.o
+release/moc_productmanagement.o
+release/moc_salesreport.o

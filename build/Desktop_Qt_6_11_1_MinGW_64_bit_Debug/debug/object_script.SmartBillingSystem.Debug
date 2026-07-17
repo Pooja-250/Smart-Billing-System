@@ -1,0 +1,14 @@
+debug/billing.o
+debug/dashboard.o
+debug/databasemanager.o
+debug/dialog.o
+debug/main.o
+debug/mainwindow.o
+debug/productmanagement.o
+debug/salesreport.o
+debug/moc_billing.o
+debug/moc_dashboard.o
+debug/moc_dialog.o
+debug/moc_mainwindow.o
+debug/moc_productmanagement.o
+debug/moc_salesreport.o
